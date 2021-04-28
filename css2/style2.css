@@ -3,33 +3,41 @@
  *This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
 */ 
 
+
 body {
-  background-color: cyan; 
+  background-color: cyan;
 }
+
 h1 {
   background-color: palegreen;
   color: hsl(239, 77%, 32%);
   padding: 40px;
   text-align: center;
 }
+
 p {
   background-color: rgb(205, 100, 237);
 }
+
 ul {
-  color: rgb(7, 3, 3);
+  color: rgb(7, 3, 3); 
 }
+ 
 ul li::before {
   content: "✓";
 }
+
 table {
   border: solid thin;
 }
+
 th {
   height: 2rem;
   background: darkorchid;
   border: 1px solid white;
   text-align: left;
 }
+
 td {
   height: 2rem;
   background: rgb(50, 152, 211);
