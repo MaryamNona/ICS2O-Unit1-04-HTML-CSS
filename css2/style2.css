@@ -4,11 +4,11 @@
 */ 
 
 body {
-  background-color: rgb(135, 250, 173); 
+ background-color: rgb(135, 250, 173); 
 }
 
-h1 { 
-background-color: rgb(144, 192, 238);
+h1 {
+ background-color: rgb(144, 192, 238);
 color: hsl(239, 77%, 32%);
 padding: 40px;
 text-align: center;
@@ -24,7 +24,7 @@ p {
 
   ul li::before {
     content: "✓"
-  }
+    }
 
 table {
   border: solid thin;
@@ -32,7 +32,7 @@ table {
 
 th {
   height: 2rem;
-  background: DarkOrchid;
+  background: Darkorchid;
   border: 1px solid white;
   text-align: left;
 }
