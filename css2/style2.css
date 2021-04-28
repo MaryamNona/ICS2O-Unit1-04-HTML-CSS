@@ -20,9 +20,9 @@ p {
 }
 
 ul {
-  color: rgb(7, 3, 3); 
+  color: rgb(7, 3, 3);
 }
- 
+
 ul li::before {
   content: "✓";
 }
@@ -40,7 +40,7 @@ th {
 
 td {
   height: 2rem;
-  background: rgb(50, 152, 211);
+  background: hsl(202, 65%, 51%);
   border: 1px solid black;
   text-align: center;
 }
